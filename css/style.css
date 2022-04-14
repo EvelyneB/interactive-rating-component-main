@@ -189,6 +189,16 @@ body {
   font-size: 0.9rem;
 }
 
+.attribution {
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 /*MEDIA QUERY*/
 @media (max-width: 530px) {
   .main {
